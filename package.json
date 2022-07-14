@@ -1,0 +1,13 @@
+{
+  "name": "sprint-um",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "Gcc10bin",
+  "license": "MIT", 
+  "type": "module"
+}
